@@ -11,7 +11,7 @@ export const PROFILE = {
   "linkedin": "https://www.linkedin.com/in/vipin-yadav-b89766227/",
   "linkedinLabel": "/in/vipin-yadav-b89766227",
   "github": "https://github.com/Vipin6343",
-  "resume": "/Vipin_Yadav_Resume.pdf",
+  "resume": "/Vipin_Yadav_Full_Stack_Resume.pdf",
   "leetcode": "https://leetcode.com/u/vipin_yadav900/",
   "gfg": "https://www.geeksforgeeks.org/user/vipin1ig1h/"
 };
